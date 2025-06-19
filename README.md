@@ -25,3 +25,5 @@ To validate official authorship claims, mining simulations, and digital timestam
 — Johann Hulstrom, ProofChain Manifesto
 
 git commit -S -m "📜 Profile README restored – ProofChain anchored by GPG"
+🔑 [View GPG Key](https://keys.openpgp.org/search?q=johann_hulstrom%40hotmail.com)
+🔏 Authorship Secured • GPG-signed • ProofChain Live
